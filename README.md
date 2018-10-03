@@ -1,2 +1,2 @@
 # Tableau-Visualization
-Data Mining through using Tableau
+Data Mining and Visualization using Tableau
